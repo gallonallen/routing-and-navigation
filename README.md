@@ -1,5 +1,7 @@
 # RoutingAndNavigation
 
+This project is a walkthrough of the [Routing and Navigation Angular Guide](https://angular.io/guide/router)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
 ## Development server
